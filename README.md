@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.ibb.co/Zz4QFbj4/884e633a1139.jpg" alt="VJ-TXT-LEECH-BOT Logo">
+</p>
+<h1 align="center">
+  VJ TXT LEECH BOT
+</h1>
 
-<!--
-**centerofmass7761/centerofmass7761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
 
-Here are some ideas to get you started:
+## Credit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b><details><summary>Tap On Me For See Credit</summary>
+
+💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+
+💖 And Thank You So Much To All Who Help In This Journey 💕
+
+Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+
+</b>
+</details>
+
+## About Owner 
+
+<b><details><summary>Tap On Me For See Details Of Owner</summary>
+
+- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
+- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
+- Contact Link : [King VJ](https://telegram.me/Kingvj01)
+- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+
+</b>
+</details>
+
+
+### Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
+
+<b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
+
